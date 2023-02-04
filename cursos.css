@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  height: 20%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+#container{
+  display: flex;
+  gap: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+main{
+  display: block;
+  text-align: center;
+}
+
+.descubra{
+  background-color: rgb(245, 196, 107);
+  color: black;
+  width: 100%;
+  height: 60vh;
+  left: 20px;
+  top: 929px;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 90px;  
+  padding: 20, 20;
+}
+
+button{
+  background-color: black;
+  color: black;
+  width: 450px;
+  height: 79px;
+  left: 735px;
+  top: 629px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+}
+
+.sobrenos{
+  background-color: black;
+  color: white;
+  height: 70vh;
+  width: 100%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  padding: 5%;
+}
+
+.paragrafo{
+  display:flexbox;
+  align-items: flex-start;
+  grid-column: 10fr;
+  
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  padding: 10%;
+}
+
+.depoimentos{
+  background-color: black;
+  text-align: center;
+  width: 1920px;
+  height: 1161px;
+  left: 0px;
+  top: 929px;
+}
+
+footer{
+  background-color: rgb(245, 196, 107);
+  text-align: center;
+  padding: 5%;
+  width: 100%;
+  height: 20%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inicio{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  height: 20%;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+#container{
+  display: flex;
+  gap: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+ 
+main{
+    text-align: center;
+    justify-content:space-around;
+}
+.cursos{
+    background-color:#F6C34A;
+    width: 100%;
+    height: 90vh;
+    background-size: 50%;
+    padding: 5%;
+}
+  
+.modulos{
+    background-color: black;
+    height: 120vh;
+    width: 100%;
+    padding: 5%;
+}
