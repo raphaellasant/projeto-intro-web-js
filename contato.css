@@ -1,0 +1,124 @@
+[22:21, 03/02/2023] 🐡thais Novo: .contato{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 750px;
+    left: 717px;
+    top: 244px;
+    background:black;
+    border: 8.45488px;
+    font-family: 'Poppins';
+} 
+
+form{
+    display: grid;
+    background-color:white;
+    color: black;
+    width: 20%;
+    height: 68%;
+    justify-content:center;
+    align-items:center;
+    border-radius: 8.45488px;
+    margin: 0 auto;
+    font-family: 'Poppins';
+   } 
+   
+input{
+   
+    border-bottom: 5px black;
+    width: 15rem;
+    height: 2.000rem;
+    font-size: 16px;
+    padding-left: 10px;
+    color:black;
+}
+
+.label{
+    width: 15rem;
+    height: 3.000rem;
+}
+.botao-s{
+    width: 15rem;
+    height: 2.000rem;
+    background-color: rgb(255, 197, 89);
+    border: radius 0.5rem;
+   }
+[22:21, 03/02/2023] 🐡thais Novo: * {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins';
+}
+
+.inicio{
+  display: flex;
+  align-items: center;
+  justify-content:space-around;
+  width: 1920px;
+  height: 152px;
+  left: 0px;
+  top: 0px;
+  color: black;
+ }
+
+#container{
+  display: flex;
+  gap: 50px;
+  color: black;
+ }
+
+footer{
+    background-color: rgb(245, 196, 107);
+   
+    width: 1920px;
+    height: 500px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.contato{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 100%;
+    height: 750px;
+    left: 717px;
+    top: 244px;
+    background:black;
+    border: 8.45488px;
+    font-family: 'Poppins';
+} 
+
+form{
+    display: grid;
+    background-color:white;
+    color: black;
+    width: 20%;
+    height: 68%;
+    justify-content:center;
+    align-items:center;
+    border-radius: 8.45488px;
+    margin: 0 auto;
+    font-family: 'Poppins';
+   } 
+   
+input{
+   
+    border-bottom: 5px black;
+    width: 15rem;
+    height: 2.000rem;
+    font-size: 16px;
+    padding-left: 10px;
+    color:black;
+}
+
+.label{
+    width: 15rem;
+    height: 3.000rem;
+}
+.botao-s{
+    width: 15rem;
+    height: 2.000rem;
+    background-color: rgb(255, 197, 89);
+    border: radius 0.5rem;
+   }
